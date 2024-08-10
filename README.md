@@ -55,8 +55,4 @@ The dataset includes various features relevant to agriculture:
 - **Feature Scaling**: `StandardScaler` for feature normalization.
 - **Label Encoding**: `LabelEncoder` for categorical variables.
 
-## How to Use
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/crop-recommendation-system.git
